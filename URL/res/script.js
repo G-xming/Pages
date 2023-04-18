@@ -9,5 +9,5 @@ function one() {
 function two() {
 	const OriginalTwo = document.location.search
 	const EditedTwo = OriginalTwo.slice(1)
-	document.getElementById('y').innerHTML = EditedTwo
+	document.getElementById('y').innerHTML = "Edited Variable is" + EditedTwo
 }

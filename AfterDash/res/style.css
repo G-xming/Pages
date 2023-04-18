@@ -1,0 +1,39 @@
+body
+{
+	font-family: sans-serif;
+	background: #17151f;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+h1
+{
+	color: white;
+}
+
+.One
+{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+.One Button {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  color: #ffffff;
+  background: #b22222;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+  font-size: 50px;
+  text-align: center;
+}
+
+.One Button:hover {
+  background: #a01e1e;
+  text-decoration: none;
+}
